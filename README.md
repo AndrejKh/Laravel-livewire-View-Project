@@ -1,5 +1,3 @@
-![Laravel views](https://laravelviews.com/img/docs/table.png)
-
 # Laravel views
 
 Laravel package to create beautiful common views like data tables using the [TALL stack](https://tallstack.dev/).
